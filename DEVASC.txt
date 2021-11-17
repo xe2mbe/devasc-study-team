@@ -1,0 +1,5 @@
+
+I am on my ways to passing the DevNet DEVASC exam
+
+I am beginning to understand Git!
+This text was addes originally while in the FEATURE branch
